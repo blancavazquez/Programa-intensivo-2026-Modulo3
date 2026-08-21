@@ -1,8 +1,7 @@
 # Programa Intensivo en Ciencia de Datos de los Fundamentos al Deep Learning
-
 ## Módulo 3. Redes Neuronales Artificiales
-Este repositorio contiene las libretas del módulo 3 impartido por:
 
+Este repositorio contiene las libretas del módulo 3 impartido por:
 * Dra. Nidiyare Hevia Montiel (nidiyare.hevia@iimas.unam.mx)
 * Dra. Blanca Hilda Vázquez Gómez (blanca.vazquez@iimas.unam.mx)
 
