@@ -2,8 +2,8 @@
 ## Módulo 3. Redes Neuronales Artificiales
 
 Este repositorio contiene las libretas del módulo 3 impartido por:
-* Dra. Nidiyare Hevia Montiel. Email: (nidiyare.hevia@iimas.unam.mx) [Google scholar]((https://scholar.google.com/citations?hl=fr&user=6p7VdCAAAAAJ&view_op=list_works&sortby=pubdate) 
-* Dra. Blanca Hilda Vázquez Gómez. Email: (blanca.vazquez@iimas.unam.mx) [Google scholar](https://scholar.google.com/citations?hl=es&user=lEK7Jv8AAAAJ&view_op=list_works&sortby=pubdate)
+* Dra. Nidiyare Hevia Montiel. Email: nidiyare.hevia@iimas.unam.mx [Google scholar](https://scholar.google.com/citations?hl=fr&user=6p7VdCAAAAAJ&view_op=list_works&sortby=pubdate) 
+* Dra. Blanca Hilda Vázquez Gómez. Email: blanca.vazquez@iimas.unam.mx [Google scholar](https://scholar.google.com/citations?hl=es&user=lEK7Jv8AAAAJ&view_op=list_works&sortby=pubdate)
 
 ## Referencias
 - **Rosenblatt F**. (1958). _The Perceptron: A probabilistic model for information storage and organization in the brain_. [Enlace](https://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)
